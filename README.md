@@ -145,6 +145,11 @@ Ensure `requirements.txt` lists all packages imported by the app and that the de
 
 **Om Bhardwaj**
 
+<<<<<<< HEAD
 ## License
 
 Choose and add a license only after checking the terms you want to apply to your code and the dataset's separate terms.
+=======
+
+
+>>>>>>> fd417ef66926e56ca500eaaf2cd3f1dce768bf45
